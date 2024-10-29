@@ -21,4 +21,12 @@ public class ErrorExample {
             return numerator / denominator;
         }
     }
+
+//    static int divide(int numerator, int denominator) throws ArithmeticException{
+//
+//        return numerator / denominator;
+//
+//    }
+
+
 }

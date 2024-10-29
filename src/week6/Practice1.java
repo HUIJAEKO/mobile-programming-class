@@ -9,9 +9,9 @@ public class Practice1 {
         //Object class 활용하기
         System.out.println(e_truck);
 
-//        vehicle.refuel();
-//        truck.refuel();
-//        e_truck.refuel();
+        vehicle.refuel();
+        truck.refuel();
+        e_truck.refuel();
 
 //        e_truck.charge(); 타입 문제로 에러
 //        다운캐스팅과 업캐스팅차이?
